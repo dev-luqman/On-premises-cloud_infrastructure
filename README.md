@@ -7,6 +7,9 @@ This architecture is use to provision cloud resourses for on-premise application
 3. Netwrok file - Provision of networks for the applictaion
 4. create.sh & Update.sh - simplified script file for aws cloudformation for creating and updating.
 
+### Corperate Network Diagram
+![Screenshot](Corperate-cloud_Infrastructure.png)
+
 ### Dependencies
 ##### 1. AWS account
 You would require to have an AWS account to be able to build cloud infrastructure.

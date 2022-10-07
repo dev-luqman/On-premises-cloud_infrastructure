@@ -8,7 +8,7 @@ This architecture is use to provision cloud resourses for on-premise application
 4. create.sh & Update.sh - simplified script file for aws cloudformation for creating and updating.
 
 ### Corperate Network Diagram
-![Screenshot](Corperate-cloud_Infrastructure.png)
+![Screenshot](Corperate-Cloud_Infrastructure.png)
 
 ### Dependencies
 ##### 1. AWS account
